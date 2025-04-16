@@ -1,4 +1,4 @@
-# Image Gallery Azure_Blob_storage Educator_Developer_Blog  Repository
+#JD Image Gallery Azure_Blob_storage Repository
 ![Screenshot 2023-08-05 172736](https://github.com/Jd-coder13/CloudNativeMedia/blob/main/screenshot.jpeg)
  
 ## What is Azure Blob Storage?
